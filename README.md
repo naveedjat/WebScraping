@@ -4,6 +4,14 @@ In this project I will dive deep into  **web scraping with Python**. where I wil
 
 ---
 
+## Folder Structure
+
+- `examples/` → Scripts demonstrating different scraping techniques
+- `datasets/` → Sample scraped data
+- `docs/` → Tutorials and tips
+
+
+
 ## 📚 Libraries Covered
 
 - **Requests**: For making HTTP requests and handling responses.  
