@@ -1,6 +1,6 @@
 # 🌐 Web Scraping
 
-This project documents my journey into **web scraping with Python**. I explored foundational libraries like `requests` and `BeautifulSoup`, as well as advanced tools like `Selenium` and `Scrapy`. Along the way, I learned key methods and concepts that make scraping websites easier and more efficient.
+In this project I will dive deep into  **web scraping with Python**. where I will be exploring foundational libraries like `requests` and `BeautifulSoup`, as well as advanced libraries and frameworks like `Selenium` and `Scrapy`. Along the way, I will learn the  key methods and concepts that will make the scraping websites easier and more faster.
 
 ---
 
